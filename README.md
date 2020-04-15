@@ -4,7 +4,7 @@ MicroOpts
 Demonstration of JMH and micro-optimisations that can be used on a simple
 routine. but which can save a small amount of time.
 
-For the write-up, see https://alblue.bandlem.com/2020/02/16/class-getname.html
+For the write-up, see http://alblue.bandlem.com/2020/02/class-getname.html
 
 There is an older write-up at
 https://alblue.bandlem.com/2016/04/jmh-stringbuffer-stringbuilder.html which
